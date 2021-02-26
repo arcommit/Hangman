@@ -1,4 +1,4 @@
-# hangman_game
+# Hangman game usign Python
 a simple logic built using python for a game of Hangman
 
 
